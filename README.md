@@ -1,4 +1,4 @@
-### Golang web dev
+# Golang web dev
 
 Source code for the course "Web Development w/ Google’s Go (golang) Programming Language" 
 
